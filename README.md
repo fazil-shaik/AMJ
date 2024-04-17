@@ -10,19 +10,6 @@ You can install Secure Auth Middleware via npm:
 npm install secure-auth-middleware
 ```
 
-Certainly! Here's a basic README.md file template for the "secure-auth-middleware" npm package:
-# Secure Auth Middleware
-
-Secure Auth Middleware is a Node.js middleware package designed to add authentication and authorization functionalities to your web applications. It provides a secure and flexible way to authenticate users using JSON Web Tokens (JWT) and protect routes from unauthorized access.
-
-## Installation
-
-You can install Secure Auth Middleware via npm:
-
-```bash
-npm install secure-auth-middleware
-```
-
 Usage
 To use Secure Auth Middleware in your Node.js application, follow these steps:
 Import the middleware:
