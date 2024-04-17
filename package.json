@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fazil-shaik/authentication-middleware.git"
+    "url": "git+https://github.com/fazil-shaik/AMJ.git"
   },
   "keywords": [
     "Authentication",
@@ -25,9 +25,9 @@
   "author": "shaik fazil basha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fazil-shaik/authentication-middleware/issues"
+    "url": "https://github.com/fazil-shaik/AMJ/issues"
   },
-  "homepage": "https://github.com/fazil-shaik/authentication-middleware#readme",
+  "homepage": "https://github.com/fazil-shaik/AMJ#readme",
   "dependencies": {
     "jsonwebtoken": "^9.0.2"
   }
