@@ -1,5 +1,5 @@
 {
-  "name": "authentication-middleware",
+  "name": "AMJ",
   "version": "1.0.0",
   "description": "creating an authenticated middleware from json web tokens (JWT) and session based authentication more flexible and more efficient to use",
   "main": "index.js",
