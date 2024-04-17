@@ -1,0 +1,34 @@
+{
+  "name": "authentication-middleware",
+  "version": "1.0.0",
+  "description": "creating an authenticated middleware from json web tokens (JWT) and session based authentication more flexible and more efficient to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazil-shaik/authentication-middleware.git"
+  },
+  "keywords": [
+    "Authentication",
+    "Middleware",
+    "Node.js",
+    "Express",
+    "JWT (JSON Web Tokens)",
+    "Authorization",
+    "Security",
+    "npm package",
+    "Authentication methods",
+    "OAuth"
+  ],
+  "author": "shaik fazil basha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fazil-shaik/authentication-middleware/issues"
+  },
+  "homepage": "https://github.com/fazil-shaik/authentication-middleware#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
